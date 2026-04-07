@@ -1,0 +1,32 @@
+# 模型与数据集 (非常大，不应该上传)
+clip-data/
+pretrained_weights/
+experiments/
+
+# Python相关
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv/
+venv/
+env/
+
+# 前端相关
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# 编辑器与IDE配置
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# 日志与缓存
+*.log
+.pytest_cache/
+.tox/
+.mypy_cache/
